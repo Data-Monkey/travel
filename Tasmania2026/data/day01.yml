@@ -1,0 +1,13 @@
+date: 04/01/2026
+description: First day in Tasmania - started our day with a visit to MONA, including lunch at one of their restaurants (food was really lovely there), followed by a historical tour of the Cascade brewery and a trip to Mt Wellington.
+location: Hobart TAS
+fb_url: https://www.facebook.com/share/r/17wgvi91jA/
+attraction:
+  - mona
+  - cascade
+restaurant:
+  - mona
+  - cascade
+
+walk:
+  - mtwellington
