@@ -1,12 +1,11 @@
-date: 04/01/2026
+date: 18/01/2026
 description: 
 location: Hobart TAS
 fb_url: 
 attraction:
-  - kayak tour
+  - kayak_tour
   - botanical_garden
 restaurant:
   - room_for_a_pony
-  - 
-
+  - hanging_gardens
 walk:
