@@ -1,0 +1,19 @@
+date: 06/01/2026
+description: Day 3 of Tasmanian holiday ( Hobart to Derwent Bridge) - Berry Farm, Salmon Ponds, Russell Falls and Lake St Clair
+location: 
+  - Hobart TAS 
+  - Derwent Bridge TAS 
+fb_url: https://www.facebook.com/share/r/16bkBEsWq2/
+attraction:
+  - berry_farm
+  - salmon_ponds
+  - russell_falls
+  - lake_stclair
+restaurant:
+  - berry_farm
+  - stclair_lodge
+walk:
+  - russell_falls
+  - lake_stclair
+accommodation: dervent_bridge_chalet
+  
